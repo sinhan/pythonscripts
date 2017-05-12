@@ -1,0 +1,5 @@
+INFO:__main__:starting
+INFO:__main__:printing recoreds
+INFO:__main__:starting
+DEBUG:__main__:Records : {'ohn': 55, 'tom': 66}
+INFO:__main__:printing recoreds

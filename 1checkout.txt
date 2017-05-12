@@ -1,0 +1,67 @@
+<!DOCTYPE html><!--[if IE 8 ]><html lang="en-gb" dir="ltr" class="ie8 r responsiveltr"><![endif]--><!--[if IE 9 ]><html lang="en-gb" dir="ltr" class="ie9 r responsive ltr"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html lang="en-gb" dir="ltr" class="r responsive ltr"><!--<![endif]--><head prefix="og: http://ogp.me/ns#"><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="bam.nr-data.net.com"/><link rel="dns-prefetch" href="//ui2.assets-asda.com"/><link rel="dns-prefetch" href="//ui1.assets-asda.com"/><link rel="dns-prefetch" href="//ui3.assets-asda.com"/><link rel="dns-prefetch" href="i.groceries.asda.com"/><link rel="dns-prefetch" href="media.richrelevance.com"/><link rel="dns-prefetch" href="www.ist-track.com"/><link rel="dns-prefetch" href="recs.richrelevance.com"/><link rel="dns-prefetch" href="googleads.g.doubleclick.net"/><link rel="dns-prefetch" href="beacon.groceries.asda.com"/><link rel="dns-prefetch" href="b.wal.co"/><link rel="dns-prefetch" href="3918197.fls.doubleclick.net"/><link rel="dns-prefetch" href="omniture.groceries.asda.com"/><link rel="dns-prefetch" href="servedby.flashtalking.com"/><title>Checkout</title><meta name="description" content="Shop online at ASDA Groceries Home Shopping. The same great prices as in store, delivered to your door with free click and collect!"/><meta name="author" content=""/><meta name="keywords" content="ASDA Groceries Shop Online Home Shopping"/><meta name="robots" content="all,index,follow"/><meta name="distribution" content="global"/><meta name="rating" content="general"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1"/><meta name="theme-color" content="#78be20"><script type="text/javascript" src="/dtagent_bootstrap.js?app=groceries.asda.com"></script><noscript><meta http-equiv='refresh' content='0;url="/asda-webstore/pages/javascript_enable/ltr.shtml"'/><img src="//www.ist-track.com/ProcessClickImage.ashx" alt="" width="1" height="1"/></noscript><script type="text/javascript">
+function getCookieByName(name) {var re = new RegExp(name + "=([^;]+)");var value = re.exec(document.cookie);return (value != null) ? unescape(value[1]) : null;}
+var url = document.location+'';
+<!-- Empty s_pers cookie and exipire it if it's content greatear than 1KB . To Improve perf. by avoiding big cookie value with http request; In Some IE version , cookie expiry works without domain name . Hence we will execute both ways-->
+var s_persValue = getCookieByName("s_pers");
+if(s_persValue !=null && s_persValue.length > 500){
+        document.cookie = "s_pers=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.asda.com;";
+        document.cookie = "s_pers=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/;";
+}
+var _bcq = _bcq || [];_bcq.push(['_setOptions', { start_time: (new Date()).getTime(), bh: 'beacon.groceries.asda.com' }]);
+var testProfile = 'false';
+var optimizeURL = 'true';
+var seoUrlContext = '/groceries';
+var ACCELERATOR = {};ACCELERATOR.APP={};ACCELERATOR.CONFIG = {};
+var ACCELERATOR_DOMAIN = "//ui2.assets-asda.com";
+var ACCELERATOR_DOC = { urlArgs: '0.0.171.RWD' };
+ACCELERATOR.APP = {
+    build_specific_version : '0.0.171.RWD',
+    cssBasePath : '//ui1.assets-asda.com',
+    cssPath : '//ui1.assets-asda.com/theme/style/min',
+    jsBaseScriptPath : '/theme/min',
+    minifiedFileVersion : '0.0.171.RWD',
+    shtmlAssetBasePath : '//ui3.assets-asda.com',
+    siteContext : 'asda-webstore'
+};
+var require = {
+    urlArgs : '0.0.171.RWD'
+};
+
+
+    ACCELERATOR.APP.PAGE_TYPE = 'checkout';
+
+
+    var PAGE_VIEW = 'CHECKOUT';
+
+
+    ACCELERATOR.APP.useMinifiedFiles = true;
+
+
+    ACCELERATOR.APP.suppressConsole = false;
+
+
+    PAGE_TEMPLATE = 'checkout/product/promotion/listing/content_page/content-page/dp_TandCOverlay/order_finish/order-finish/viewOrPrintOrder/privacy-policy/terms-and-conditions';
+
+</script><link rel="stylesheet" href="//ui1.assets-asda.com/theme/style/min/responsive/critical.css?0.0.171.RWD"/><style data-type="fonts">
+  @font-face {
+  font-family: 'asda-freestyle';
+  src: url('/theme/fonts/asdaf___-webfont.eot');src: url('/theme/fonts/asdaf___-webfont.eot?#iefix') format('embedded-opentype'), url('/theme/fonts/asdaf___-webfont.woff') format('woff'), url('/theme/fonts/asdaf___-webfont.ttf') format('truetype'), url('/theme/fonts/asdaf___-webfont.svg#asda-freestyler') format('svg');font-weight: normal;font-style: normal;
+  }
+  @font-face {font-family: 'Responsive-icon-font';src:url('/theme/fonts/Responsive-icon-font.eot?susktn');src:url('/theme/fonts/Responsive-icon-font.eot?#iefixsusktn') format('embedded-opentype'), url('/theme/fonts/Responsive-icon-font.woff?susktn') format('woff'), url('/theme/fonts/Responsive-icon-font.ttf?susktn') format('truetype'), url('/theme/fonts/Responsive-icon-font.svg?susktn#Responsive-icon-font') format('svg');font-weight: normal;font-style: normal;
+  }
+  </style><!--[if IE 8 ]><link rel="stylesheet" href="//ui1.assets-asda.com/theme/style/min/responsive/responsive-ie.css?0.0.171.RWD"/><link rel="stylesheet" href="/theme/style/common/custom-select-style-ie8.css"/><![endif]--><!--[if IE 9 ]><link rel="stylesheet" href="//ui1.assets-asda.com/theme/style/min/responsive/responsive-ie.css?0.0.171.RWD"/><link rel="stylesheet" href="/theme/style/common/custom-select-style-ie9.css"/><![endif]-->
+</head><body ontouchstart="" class="checkoutPage"><ul id="skip"><li><a href="#primary-nav-wrapper">Skip to navigation</a></li><li><a href="#mainContainer">Skip to main content</a></li></ul><div id="footerType" style="display:none">mini</div><div class="responsive-menu-container">
+<div id="sticky-anchor"></div><div id="header" role="banner"><div class="responsive-menu-btn"><a href="#" aria-label="main menu"><span><span class="accessible">main&nbsp;</span>Menu</span></a></div><div class="itemAddedFlyout" style="display:none;"><div class="action"><div class="added"><p>Added</p></div><div class="removed"><p>Removed</p></div></div><div class="itemAddedImg"><img alt=""/></div><div class="itemAddedInTrolley"><span class="itemAddedQty"></span> in your trolley</div></div><div class="container" id="pageHeaderContainer"><div class="logo-container"><div id="logo"><a name="page-top-heading" class="icon-groceries" href="/groceries"> ASDA Groceries </a></div></div><div id="user-menu-container"></div></div></div></div><div id="bodyContainer"><div class="container"><div id="mainContainer" role="main" data-pagetype="checkout"></div><div id="sideContainer" role="complementary"><div class="sideModuleContainer miniTrolleyStatic"></div></div><div style="clear:both"></div></div><div id="contentsContainer"></div></div>
+<div id="footer"><div class="container"><a href="#page-top-heading" class="backToTop black icon-arrowU arrowUp">BACK TO TOP</a></div><div class="background mini-footer"><div class="container"><div id="OpinonLab_Container" style="display: none;"><div id="OL_Inner"><a class="icon-speachbubble green" href="#" onclick="oo_feedback.show(event)"><span id="OL_Logo"></span>Website Feedback</a></div></div><div class="bottom"><a target="_blank" class="medicineLink"href="http://medicine-seller-register.mhra.gov.uk/search-registry/107"><img src="/assets/theme_default/img/common/medicine-footer.png" alt="open in a new window to verify this website is operating legally"/></a><ul class="ul-reset"><li class="copy white hide-sm">&copy; ASDA 2015</li><li><a class="white hover-underline" href="//groceries.asda.com/terms-and-conditions">Terms &amp; Conditions</a></li><li><a class="white hover-underline" href="//groceries.asda.com/privacy-policy">Privacy &amp; Cookies</a></li><li><a class="white hover-underline" href="//groceries.asda.com/site-map">Site map</a></li><li><a class="white hover-underline" target="_blank" href="http://www.asda.com/help/privacy-policy.html?item=bnf1"><span class="accessible">Open new window </span>Asda Company Details</a></li><li class="copy white hide-def show-sm">&copy; ASDA 2014</li></ul><div class="cardImages"><span class="creditCards"></span><span class="verifiedImages"></span></div><div class="tagWrap"><p class="tagImage text-indent icon-fulllogo">ASDA, Save Money, Live Better</p></div></div></div></div></div><script type="text/javascript">
+    require.baseUrl = '//ui2.assets-asda.com/theme/min';
+</script><script data-main="//ui2.assets-asda.com/theme/min/common/accelerator-main.js" src="//ui2.assets-asda.com/theme/min/common/accelerator-bootstrap.js?0.0.171.RWD"></script><div style="display:none" class="isMinified"></div><script>
+
+</script><script type="text/javascript">
+(function () {
+var tagjs = document.createElement("script");
+var s = document.getElementsByTagName("script")[0];
+tagjs.async = true;
+tagjs.src = "//s.btstatic.com/tag.js#site=eI7jAuz";
+s.parentNode.insertBefore(tagjs, s);
+}());
+</script><noscript><iframe src="//s.thebrighttag.com/iframe?c=A1JqOas" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript><div id="pageLoaderDiv" style="display: none;"><img width="100" height="100" src="/theme/img/common/loader.svg" alt="loading-animation"></div></body></html>
