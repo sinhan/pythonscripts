@@ -20,3 +20,7 @@ with open(output_filename, "a") as out_file:
             if (line_regex.search(line)):
                 print line
                 out_file.write(line)
+                
+                
+#tail -F /var/log/nginx/access.log | 
+#python -c 'exec("import sys,time\nl=0\ne=int(time.time())\nfor line in sys.stdin:\n\tt = int(time.time())\n\tl += 1\n\tif t > e:\n\t\te = t\n\t\tprint l\n\t\tl = 0")'              
