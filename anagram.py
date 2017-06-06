@@ -14,3 +14,12 @@ print d2
 
 for v in d2.values():
   print v
+
+#smaller approach
+
+d3={}
+for i in words:
+  d3.setdefault(''.join(sorted(i)),[]).append(i)
+
+for v in d3.values():
+  print v
