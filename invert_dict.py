@@ -23,3 +23,7 @@ print mini
 
 maxi = max(zip(dict1.values(), dict1.keys()))
 print maxi
+
+
+print "===" * 8
+print sorted(zip(dict1.values(), dict1.keys()), reverse=True)
